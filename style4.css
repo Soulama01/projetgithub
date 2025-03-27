@@ -1,0 +1,51 @@
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: #4e668f;
+
+
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    margin: 130px;
+}
+#e{
+    margin-left: 30px;
+}
+#j{
+    margin-left: 30px;
+}
+#i{
+    margin-left: 30px;
+}
+#k{
+    margin-left: 30px;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+#er{
+    color: white;
+    text-align: center;
+}
+#Btnn{
+    font-size: 25px;
+    color: white;
+    background-color: rgba(1, 255, 217, 0.229);
+    text-decoration: none;
+    border: none;
+    border-radius: 3px;
+    margin-left: 47%;
+    cursor: pointer;
+    margin-top: 25px;
+}
